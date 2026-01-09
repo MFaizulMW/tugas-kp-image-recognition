@@ -1,9 +1,8 @@
 path: /home/fadhli/Documents/Rpl/KP/data
-
 train: images/train
 val: images/val
 
 names:
   0: cup-tumbler
-  1: tumbler	
+  1: tumbler
 
